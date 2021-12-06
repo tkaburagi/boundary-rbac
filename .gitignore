@@ -1,0 +1,5 @@
+.idea
+*/.terraform
+*/.terraform.lock.hcl
+*/trusted-user-ca-keys.pem
+*/terraform.*
